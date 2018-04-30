@@ -20,7 +20,7 @@ author:
   info:
 
 url: http://npochhi.github.io
-baseurl: "/"
+baseurl: "/npochhi"
 
 # language attribute in <html> element.
 lang: en
