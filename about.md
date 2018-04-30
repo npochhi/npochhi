@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and for fun by Stijn. Get the latest version at the [Github repository](https://github.com/steinvc/holo-alfa).
-
+Hi, I'm Nilay Pochhi. A fourth year undergradudate student at IIT Kharagpur. This blog is to document my progress in GSoC.
 ---
 
 Holo Alfa is open source, [MIT license](http://opensource.org/licenses/MIT).
