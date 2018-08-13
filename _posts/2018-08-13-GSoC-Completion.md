@@ -8,11 +8,11 @@ The GSoC 2018 coding period is about to end. This post summarizes my journey thr
 
 ### GSoC Proposal
 
-You can find my GSoC proposal [here] (https://docs.google.com/document/d/1_gUCa1LNPZmkKkqCEXR7eJu-IZ9DiiA-n0kG660hLIE/edit?usp=sharing) and the link to the project repository [here] (https://github.com/sciruby/networkx.rb).
+You can find my GSoC proposal [here](https://docs.google.com/document/d/1_gUCa1LNPZmkKkqCEXR7eJu-IZ9DiiA-n0kG660hLIE/edit?usp=sharing) and the link to the project repository [here](https://github.com/sciruby/networkx.rb).
 
 ### Code
 
-The final massive [PR] (https://github.com/SciRuby/networkx.rb/pull/16)is still undergoing a review and once we fix the linting issues it'll get merged.
+The final massive [PR](https://github.com/SciRuby/networkx.rb/pull/16) is still undergoing a review and once we fix the linting issues it'll get merged.
 
 ### Finished, unfinished and future goals
 
@@ -55,8 +55,8 @@ There was one algorithm, Network Simplex, in my proposal which I haven't impleme
 
 The GSoC goals though reached, are missing many algorithms like assortativity finding etc. which are important for analysis of complex networks. I'm also thinking of including a visualization/interative tool which may be useful for community as it would make the library language agnostic i.e. one would not require the knowledge of Ruby language to model networks and perfom analysis on it.
 
-  ### Acknowledgements
+### Acknowledgements
 
-  I would like to express my sincere gratitude to my mentor, Athitya, who answered my every question patiently and gave me ample opportunities to perform the job and encouraged, even when I was lagging behind in my GSoC timeline.
-  I'd like to thank the entire SciRuby community for giving me this opportunity and exposing me to the world of Opensource development.
-  I'd like to keep contributing to SciRuby community and introduce first timers to the world of FOSS.
+I would like to express my sincere gratitude to my mentor, Athitya, who answered my every question patiently and gave me ample opportunities to perform the job and encouraged, even when I was lagging behind in my GSoC timeline.
+I'd like to thank the entire SciRuby community for giving me this opportunity and exposing me to the world of Opensource development.
+I'd like to keep contributing to SciRuby community and introduce first timers to the world of FOSS.
