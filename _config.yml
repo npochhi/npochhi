@@ -126,7 +126,7 @@ var_post_by: Post by
 var_guest_post_by: Guest post by
 var_your_email: Your email
 var_your_message: Your message
-
+future: true
 
 ##################
 # BUILD SETTINGS #
